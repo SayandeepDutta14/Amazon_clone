@@ -7,3 +7,4 @@ A frontend clone of the E-commerce website of Amazon. This is created using HTML
 * CSS Animations
 * Javascript
 
+https://deluxe-sable-131033.netlify.app/#
